@@ -1,6 +1,6 @@
-| MD5                              | PUP Version | Description & link                                         | Size   | Type    | Date added          |
-| -------------------------------- | :---------: | ---------------------------------------------------------- | ------ | ------- | ------------------- |
-| D6282C351E3B3C47E91EC9D4AB7C44C7 |    4.89     | [Evilnat 4.89 COBRA 8.3 [CEX]](./fresh%20dump.hex)         | 196 MB | EVILNAT | 2023-02-07 20:16:08 |
-| A2C79919CAFDBB50CCB5EE9589245380 |   4.86.1    | [Rebug 4.86.1 LITE](./fresh%20dump.hex)                    | 194 MB | REBUG   | 2023-02-07 20:16:08 |
-| 06AA0E07AF7EAD6E7E4BDDF18EA3281F |    3.55     | [Rogero Downgrader [DEX] (NoBD Patch)](./fresh%20dump.hex) | 185 MB | ROGERO  | 2023-02-07 20:16:08 |
-| 0835D81E3C581F3BDFDFBE86FCA5E192 |   4.84.2    | [Rebug 4.84.2](./fresh%20dump.hex)                         | 185 MB | REBUG   | 2023-02-07 20:16:08 |
+| MD5                              | PUP Version | Description & link                                                                                                                                           | Size   | Type    | Date added             |
+| -------------------------------- | :---------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------- | ---------------------- |
+| D6282C351E3B3C47E91EC9D4AB7C44C7 |    4.89     | [Evilnat 4.89 COBRA 8.3 [CEX]](https://cdn-152.anonfiles.com/qaB9D4W7y2/7ffa2974-1675806559/Evilnat_4.89_COBRA%208.3_[CEX]_PS3UPDAT.PUP)                     | 196 MB | EVILNAT | 2023-02-07 08:16:08 PM |
+| A2C79919CAFDBB50CCB5EE9589245380 |   4.86.1    | [Rebug 4.86.1 LITE](https://cdn-101.anonfiles.com/U5D4D4W3y9/04ad7ea4-1675806811/Rebug_4.86.1_LITE_PS3UPDAT.PUP)                                             | 194 MB | REBUG   | 2023-02-07 08:16:08 PM |
+| 06AA0E07AF7EAD6E7E4BDDF18EA3281F |    3.55     | [Rogero Downgrader [DEX] (NoBD Patch)](https://cdn-128.anonfiles.com/2fE6DdW1y9/cb8f1a91-1675807005/Rogero_3.55_Downgrader_[DEX]_(NoBD%20Patch_PS3UPDAT.PUP) | 185 MB | ROGERO  | 2023-02-07 08:16:08 PM |
+| 0835D81E3C581F3BDFDFBE86FCA5E192 |   4.84.2    | [Rebug 4.84.2](https://cdn-101.anonfiles.com/FdF4D0Wbye/18ba9ceb-1675807050/Rebug_4.84.2_PS3UPDAT.PUP)                                                       | 203 MB | REBUG   | 2023-02-07 08:16:08 PM |

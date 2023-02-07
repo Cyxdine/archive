@@ -2,8 +2,9 @@
 <html lang="en">
 
 <head>
-    <title>Cyadine | Archive</title>
+    <title>Cyadine | PS3 Archive</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
     <link rel="shortcut icon" href="https://avatars.githubusercontent.com/u/106893684?v=4" type="image/x-icon">
     <link rel="icon" href="https://avatars.githubusercontent.com/u/106893684?v=4" type="image/x-icon">
     <meta name="theme-color" content="#157a1a">
@@ -12,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://akali.best">
+    <meta property="og:url" content="https://archive.akali.best">
     <meta property="og:title" content="Cyadine">
 
 </head>
@@ -23,12 +24,25 @@
         <ul>
             <li class="inactive"><a href="https://akali.best/">home</a></li>
             <li class="active"><a href="https://archive.akali.best/">archive</a></li>
-            <li class="inactive"><a href="https://akali.best/screenshots.html">screenshots</a></li>
+            <li class="inactive"><a href="https://akali.best/screenshots">screenshots</a></li>
         </ul>
     </div>
-
-    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
     <center>
+
+        <div id="one">
+            <h4 class="fadein" style="--order: 2">If you need help or have any questions about jailbreaking, come to the
+                <a style="color:#25b92d ;" href="https://discord.gg/akali">discord</a>
+            </h4>
+            <h4 class="fadein" style="--order: 2">All files more than 25MB will be hosted on
+                <a style="color:#25b92d ;" href="https://anonfiles.com/" target="_blank">Anonfiles</a>
+            </h4>
+
+        </div>
+
+        <!-- Markdown table -->
+        <h3 class="fadein" style="--order: 2">Custom Frimware</h3>
+        <br>
+        <br>
         <zero-md src="./archive.md">
             <template>
                 <link rel="stylesheet" href="./md.css" />
@@ -39,6 +53,26 @@
                 </style>
             </template>
         </zero-md>
+        <br>
+        <br>
+        <h3 class="fadein" style="--order: 2">GAME/SPRX/PKG</h3>
+        <br>
+        <br>
+        <zero-md src="./other.md">
+            <template>
+                <link rel="stylesheet" href="./md.css" />
+                <style>
+                    a {
+                        color: #25b92d !important;
+                    }
+                </style>
+            </template>
+        </zero-md>
+        <br>
+        <br>
+
+
+
     </center>
     <script src="js/three.min.js"></script>
     <script src="js/vanta.fog.min.js"></script>

@@ -1,6 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap");
 
+.vanta-canvas{
+  position: fixed !important;
+}
+
+
 :root {
+  overflow-x: hidden;
   --primary-col: #157a1a;
   --secondary-col: #2b9715;
 }
@@ -66,7 +72,7 @@ h2 {
 
 h3{
   font-weight: 300;
-  font-size: 3rem;
+  font-size: 2rem;
   margin-bottom: -0.5rem;
 }
 h4{
